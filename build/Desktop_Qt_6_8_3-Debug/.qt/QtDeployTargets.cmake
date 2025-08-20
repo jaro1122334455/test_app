@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apptest_app_FILE /home/john/test_app/build/Desktop_Qt_6_8_3-Debug/apptest_app)
+set(__QT_DEPLOY_TARGET_apptest_app_TYPE EXECUTABLE)

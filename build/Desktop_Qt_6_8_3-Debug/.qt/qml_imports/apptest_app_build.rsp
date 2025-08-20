@@ -1,0 +1,14 @@
+-rootPath
+/home/john/test_app
+-cmake-output
+-output-file
+/home/john/test_app/build/Desktop_Qt_6_8_3-Debug/.qt/qml_imports/apptest_app_build.cmake
+-importPath
+/home/john/test_app/build/Desktop_Qt_6_8_3-Debug/test_app
+-importPath
+/home/john/test_app/build/Desktop_Qt_6_8_3-Debug
+-importPath
+/home/john/Qt/6.8.3/gcc_64/qml
+-qrcFiles
+/home/john/test_app/build/Desktop_Qt_6_8_3-Debug/.qt/rcc/qmake_test_app.qrc
+/home/john/test_app/build/Desktop_Qt_6_8_3-Debug/.qt/rcc/apptest_app_raw_qml_0.qrc
